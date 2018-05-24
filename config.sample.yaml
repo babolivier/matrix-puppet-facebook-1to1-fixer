@@ -1,0 +1,11 @@
+# Matrix-related settings
+matrix:
+  # The full URL of the homeserver to contact.
+  homeserver_url: https://matrix.org
+  # The server name of the homeserver to contact.
+  server_name: matrix.org
+  # The local part from the bridge user's Matrix ID. In the example shown in this
+  # sample file, the user's Matrix ID is @Alice:matrix.org.
+  localpart: Alice
+  # The bridge user's access token.
+  access_token: ACCESS_TOKEN
